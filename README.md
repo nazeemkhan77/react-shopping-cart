@@ -18,6 +18,7 @@ friendly user experience with instant visual updates and scaleable code in ecomm
 - Products persist in floating cart after page reloads
 - Unit tests, integration tests and e2e testing
 - Responsive design
+- Updated
 
 ## Getting started
 
