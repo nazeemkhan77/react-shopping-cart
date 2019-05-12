@@ -46,7 +46,6 @@ npm run test
 /* Running e2e tests */
 npm run wdio
 
-........
 ```
 
 ## About tests
